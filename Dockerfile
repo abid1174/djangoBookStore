@@ -1,5 +1,5 @@
 # Pull the base image 
-FROM python:3.7
+FROM python:3.6
 
 
 # Set environment variables
